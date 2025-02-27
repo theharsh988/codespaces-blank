@@ -8,7 +8,7 @@
   "keywords": [],
   "author": "Harsh Patel",
   "license": "MIT",
-  "description": "The weather_api",
+  "description": "This is my new description of the weather_api for week 5",
   "type": "module",
   "engines": {
     "node": ">= 18.12 <21"
